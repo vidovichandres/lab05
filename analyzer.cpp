@@ -1,5 +1,9 @@
 // Andres Vidovich 10/7/2024
+<<<<<<< HEAD
 // This is the fixed version!
+=======
+
+>>>>>>> hotfix
 #include <iostream>
 #include <vector>
 #include <string>
